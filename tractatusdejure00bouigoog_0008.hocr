@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tractatusdejure00bouigoog_0008.png"; bbox 0 0 3018 5070; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 443 1829 959 1937">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 443 1829 959 1937">
+     <span class='ocr_line' id='line_1_1' title="bbox 443 1829 959 1937; baseline 0.006 -3"><span class='ocrx_word' id='word_1_1' title='bbox 443 1829 959 1937; x_wconf 86' lang='lat' dir='ltr'><strong>INSTITUTIONES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 196 2119 1194 2296">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 196 2119 1194 2296">
+     <span class='ocr_line' id='line_1_2' title="bbox 196 2119 1194 2296; baseline -0.002 -4"><span class='ocrx_word' id='word_1_2' title='bbox 196 2122 531 2296; x_wconf 85' lang='lat' dir='ltr'>JURIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 622 2119 1194 2296; x_wconf 81' lang='lat' dir='ltr'><strong>CANONICI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 311 2651 1082 2768">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 311 2651 1082 2768">
+     <span class='ocr_line' id='line_1_3' title="bbox 311 2651 1082 2768; baseline 0.003 -4"><span class='ocrx_word' id='word_1_4' title='bbox 311 2687 506 2767; x_wconf 72' lang='lat' dir='ltr'>vAfflos</span> <span class='ocrx_word' id='word_1_5' title='bbox 533 2651 847 2767; x_wconf 69' lang='lat' dir='ltr'>TRACTATUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 876 2689 1082 2768; x_wconf 76' lang='lat' dir='ltr'>n1v1sAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1514 5070">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1514 5070">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1514 5070; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1514 5070; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
